@@ -26,12 +26,12 @@
 <small> i'd love to get my hands on anything CV or ML related! </small>
 
 - 📫 Recruiting? Reach me via email  **[nbiggs1337@gmail.com](mailto:nbiggs1337@gmail.com)** or via my [portfolio!](https://noahbiggs.info/contact) 
-<br />
+\
 <small> email me & i'll get back to you within 24 hours! </small>
 
-- 📄 Learn about my experiences [via my CV / resumé](https://tinyurl.com/NoahBiggs2023) 
-<br />
-<small> i try to follow passion, not paper! </small>
+- 📄 Learn about my experiences [via my CV / resumé](https://tinyurl.com/NoahBiggs2023)
+\
+<small> i try to follow the passion, not just the paper! </small>
 
 - 🏍️ Fun fact **I enjoy troubleshooting motorcycle electrical issues as a hobby! 🏍️** 
 
