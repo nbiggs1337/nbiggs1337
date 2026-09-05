@@ -2,9 +2,9 @@
 
 # Hi, I'm Noah
 
-**Data center infrastructure** · **ML / GPU server provisioning**
+**Support engineering** for **data center / AI infrastructure**
 
-`Chicago suburbs` · `rack → ready` · `specialist track`
+`Chicago suburbs` · `software mindset × hardware reality` · `builder`
 
 </div>
 
@@ -12,35 +12,35 @@
 
 <div align="center">
 
-I work at the intersection of **hardware delivery** and **AI infrastructure** — taking GPU servers from rack to ready: install, validate, and provision so clusters can run.
+I apply a **software engineering mindset** to data center problems — provisioning ML/GPU servers, debugging fleet pain, and shipping tools that make the floor move faster.
 
-Building in the open when I can · teaching when it helps
+In the last **11 months** I've built **~11 internal tools** for support & delivery workflows. The detailed portfolio stays private for now; happy to walk through it 1:1.
 
 </div>
 
 ---
 
-### Focus
+### How I work
 
-| Area | What I optimize for |
+| Mode | What it looks like |
 | :--- | :--- |
-| **Provisioning that holds up** | Clear validation, accountable steps, one reliable record of what actually happened |
-| **Bring-up discipline** | Imaging, out-of-band management, firmware hygiene, network readiness for AI fabrics |
-| **Failure literacy** | Thermal, link, NIC/GPU, and config issues — diagnose once, prevent the next one |
-| **Honest systems** | Prefer a single source of truth over parallel trackers that drift |
+| **Support engineering** | Own the messy middle — tickets, patterns, root cause, and the fix that stops the next ten |
+| **Software × DC** | Automate the boring, instrument the fragile, replace tribal knowledge with something runnable |
+| **Provisioning** | Install → validate → ready: clear steps, accountable records, fewer surprises at cluster time |
+| **Tool builder** | Small apps and scripts that remove friction for techs and leads (UI when it helps, CLI when it's enough) |
 
 ### Leveling toward
 
-**ML infrastructure / provisioning specialist** — deeper on GPU cluster bring-up, validation automation, and delivery quality (specialist depth, not a random pivot).
+**ML infrastructure / provisioning specialist** with a support-engineering spine — deeper on GPU bring-up and delivery quality, stronger on the tooling that makes that work scale.
 
 ---
 
-### Day-to-day toolkit
+### Toolkit
 
 ```text
-Linux · BMC / OOB · imaging & PXE · AI-rack networking
-Python / shell for validation · Docker when ops needs it
-TypeScript / Node when a tool needs a UI
+Floor:     Linux · BMC / OOB · imaging & PXE · AI-rack networking
+Build:     TypeScript · Node · Python · shell · Docker · Git
+Mindset:   automate · measure · single source of truth · ship small, ship often
 ```
 
 | Linux | Docker | Python | Bash | AWS | Git | TypeScript | Node |
@@ -49,9 +49,9 @@ TypeScript / Node when a tool needs a UI
 
 ---
 
-### Also on my desk
+### Public vs private
 
-I still build and teach in software — TypeScript, Node, and full-stack apps show up in older public repos. Production infra work stays private for good reasons; reach out if you want to talk shop.
+Older public repos lean full-stack / teaching (YouTube: [I2eboot](https://youtube.com/c/I2eboot)). The recent tooling that maps to this role is internal — I'll publish sanitized versions over time.
 
 ---
 
