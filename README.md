@@ -1,49 +1,79 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://noahbiggs.info">Noah B</a>! Some people call me <a href="https://youtube.com/c/I2eboot">Reboot</a>!</h1>
+<div align="center">
 
-<h3 align="center">A passionate, mission-driven software engineer & problem-solver from the Chicago suburbs</h3>
+# Hi, I'm Noah
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nbiggs1337&label=Profile%20views&color=0e75b6&style=flat" alt="nbiggs1337" />
-</p>
+### Data center infrastructure · ML / GPU server provisioning & handoff
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nbiggs1337&theme=darkhub&no-frame=true&row=1" alt="nbiggs1337" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=nbiggs1337&label=Profile%20views&color=38bdf8&style=flat" alt="profile views" />
 
----
+<br/>
 
-- 🤖 I'm currently deep in **agentic AI** — building autonomous systems that can navigate the web, interact with platforms, and operate as independent digital actors; think browser-native AI agents that perceive, reason, and act like a real user would
-- 🧠 Fascinated by the intersection of **LLMs + browser automation** — giving AI the ability to read pages, fill forms, click through flows, and carry out multi-step tasks with minimal human hand-holding
-- 🌱 Always learning — currently exploring **Rust** and low-level systems thinking to sharpen the performance edge on agent infrastructure
-- 👨‍💻 Some of my projects are available here & at [noahbiggs.info](https://noahbiggs.info) — most of the interesting stuff lives in private repos, so just reach out if you want to see more
-- 📝 I create educational content on YouTube → [youtube.com/c/I2eboot](https://youtube.com/c/I2eboot)
-- 💬 Ask me about **MERN, C#, Python, browser automation, or agentic AI pipelines**
-- 📫 Reach me at **[nbiggs1337@gmail.com](mailto:nbiggs1337@gmail.com)** or through my [portfolio](https://noahbiggs.info/contact)
-- 🏍️ Fun fact: I troubleshoot motorcycle electrical issues for fun 🏍️
+<img src="https://github-profile-trophy.vercel.app/?username=nbiggs1337&theme=nord&no-frame=true&row=1&column=6" alt="trophies" />
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/noahbiggs" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noahbiggs" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/i2eboot" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="i2eboot" height="30" width="40" />
-  </a>
-</p>
+I work at the intersection of **hardware delivery** and **AI infrastructure** — taking GPU servers from rack to ready: install, validate, and hand off so clusters can run.
+
+Chicago suburbs · building in the open when I can · teaching when it helps
+
+</div>
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+### Focus
 
-![Skills](https://skillicons.dev/icons?i=aws,babel,bootstrap,cs,css,cypress,d3,docker,dotnet,express,figma,firebase,flask,git,graphql,html,js,jest,linux,mongodb,mysql,nextjs,nodejs,opencv,py,react,reactnative,redux,rust,sass,svelte,tailwind,ts,webpack&perline=12)
+| | |
+| :--- | :--- |
+| **Handoffs that hold up** | Clear validation, accountable steps, one reliable record of what actually happened |
+| **Bring-up discipline** | Imaging, out-of-band management, firmware hygiene, network readiness for AI fabrics |
+| **Failure literacy** | Thermal, link, NIC/GPU, and config issues — diagnose once, prevent the next one |
+| **Honest systems** | Prefer a single source of truth over parallel trackers that drift |
+
+### Leveling toward
+
+**ML infrastructure / provisioning specialist** — deeper on GPU cluster bring-up, validation automation, and delivery quality (specialist depth, not a random pivot).
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbiggs1337&show_icons=true&locale=en&layout=compact&theme=dark" alt="nbiggs1337" />
-</p>
+<div align="center">
+
+### Day-to-day toolkit
+
+<img src="https://skillicons.dev/icons?i=linux,docker,py,bash,aws,git,ts,nodejs&perline=8" alt="skills" />
+
+<br/><br/>
+
+<sub>Linux · BMC / OOB · imaging & PXE · AI-rack networking · Python / shell for validation · Docker when ops needs it</sub>
+
+</div>
+
+---
+
+### Also on my desk
+
+I still build and teach in software — TypeScript, Node, and full-stack apps show up in older public repos. Production infra work stays private for good reasons; reach out if you want to talk shop.
+
+---
+
+<div align="center">
+
+### Connect
+
+<a href="https://noahbiggs.info" target="_blank"><img src="https://img.shields.io/badge/Portfolio-noahbiggs.info-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://youtube.com/c/I2eboot" target="_blank"><img src="https://img.shields.io/badge/YouTube-I2eboot-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://linkedin.com/in/noahbiggs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-noahbiggs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nbiggs1337@gmail.com"><img src="https://img.shields.io/badge/Email-nbiggs1337%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbiggs1337&layout=compact&theme=nord&hide_border=true&card_width=400" alt="top languages" />
+
+<br/><br/>
+
+<sub>Fun fact: I troubleshoot motorcycle electrical issues for fun — same debugging muscle, different harness.</sub>
+
+</div>
