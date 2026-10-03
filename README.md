@@ -2,15 +2,19 @@
 
 # Noah Biggs
 
-Engineer and teacher. Chicago.
+I teach what I build. I build what the field hasn't named yet.
+
+Chicago
 
 </div>
 
 ---
 
-I spent years as an engineer and as a teacher before this. The work here is the same habit: build the thing, explain it clearly, and leave it in a state someone else can run.
+Engineer first. Teacher after that, because the work only counts if someone else can carry it.
 
-Older repos are teaching demos and experiments. A lot of them are archived on purpose. What stays public should be readable without a briefing.
+The public record here is the long game: systems thinking that outlasts a stack, written so a niche can recognize itself in it. Not demos. Not a résumé dump. The kind of pages people cite when they are trying to become dangerous at the thing.
+
+Archived repos are the classroom. What's next is the canon.
 
 ---
 
