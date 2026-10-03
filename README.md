@@ -4,7 +4,7 @@
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nbiggs1337&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&custom_title=kt0wn_gunpl4y&v=2" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nbiggs1337&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&custom_title=kt0wn_gunpl4y&v=3" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbiggs1337&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 
 <br>
